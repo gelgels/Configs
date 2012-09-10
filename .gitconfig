@@ -1,0 +1,12 @@
+[user]
+	name = Angela Navarro
+	email = angelarnavarro@gmail.com
+[credential]
+	helper = oskeychain
+[alias]
+  br = branch
+  st = status
+  co = checkout
+  ci = commit
+  fe = fetch
+  rb = rebase
