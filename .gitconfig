@@ -1,1 +1,19 @@
-/Users/angela/.gitconfig
+[user]
+  name = Angela Navarro
+  email = angelarnavarro@gmail.com
+[credential]
+  helper = oskeychain
+[alias]
+  br = branch
+  st = status
+  co = checkout
+  ci = commit
+  fe = fetch
+  rb = rebase
+
+### Added by the Heroku Toolbelt
+[include]
+  path = "/usr/local/heroku/bin:$PATH"
+  path = "/Users/Angela/.git-completion.bash"
+[color]
+	ui = true
